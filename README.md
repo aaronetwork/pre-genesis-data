@@ -23,3 +23,5 @@ If an address received the airdrop and participated in testing, rewards will be 
 7. cosmos1ljmmmf2ke4a9czenq3re4trxe2vm7kpje5ayky 
 8. cosmos12ethgmpp8thr34q9sy75x89j2e7svdccs4pttz 
 9. cosmos1kpk7v7pqa0mtpghcfw5y9hqcq39gpfvv5r6yey
+
+**These data are for informational purposes only. They are needed to determine which address received tokens and for what purpose.**
